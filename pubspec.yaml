@@ -31,4 +31,6 @@ flutter:
   
   assets:
     - assets/ufrpe.png
-  
+    - assets/login.png
+    - assets/senha.png
+    - assets/cadastro.png

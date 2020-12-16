@@ -1,16 +1,13 @@
 import 'package:flutter/material.dart';
 
-import 'cadastro.dart';
-import 'recuperar-senha.dart';
-
-class Login extends StatelessWidget {
+class Cadastro extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.blue[900],
         leading: Icon(Icons.menu),
-        title: Text('Página Inicial'),
+        title: Text('Cadastro'),
         actions: <Widget>[
           Padding(
             padding: EdgeInsets.symmetric(horizontal: 16),
@@ -18,21 +15,17 @@ class Login extends StatelessWidget {
               child: Icon(Icons.search),
               color: Colors.blue[800],
               minWidth: 0,
-              onPressed: () {
-                Navigator.push(context,
-                    MaterialPageRoute(builder: (context) => Cadastro()));
-              },
+              onPressed: () {},
             ),
           ),
         ],
       ),
       body: Container(
         padding: EdgeInsets.only(
-          top: 60,
+          top: 40,
           left: 40,
           right: 40,
         ),
-        color: Colors.grey[300],
         child: ListView(
           children: <Widget>[
             SizedBox(
@@ -41,12 +34,28 @@ class Login extends StatelessWidget {
               child: Image.asset("assets/ufrpe.png"),
             ),
             SizedBox(
-              height: 20,
+              height: 5,
             ),
             TextFormField(
               keyboardType: TextInputType.emailAddress,
               decoration: InputDecoration(
-                  labelText: "E-mail",
+                  labelText: "E-mail*",
+                  labelStyle: TextStyle(
+                    color: Colors.black,
+                    fontWeight: FontWeight.w400,
+                    fontSize: 20,
+                  )),
+              style: TextStyle(
+                fontSize: 20,
+              ),
+            ),
+            SizedBox(
+              height: 15,
+            ),
+            TextFormField(
+              keyboardType: TextInputType.emailAddress,
+              decoration: InputDecoration(
+                  labelText: "Data de Nascimento dd/mm/yyyy*",
                   labelStyle: TextStyle(
                     color: Colors.black,
                     fontWeight: FontWeight.w400,
@@ -63,7 +72,7 @@ class Login extends StatelessWidget {
               keyboardType: TextInputType.text,
               obscureText: true,
               decoration: InputDecoration(
-                  labelText: "Senha",
+                  labelText: "Senha*",
                   labelStyle: TextStyle(
                     color: Colors.black,
                     fontWeight: FontWeight.w400,
@@ -71,25 +80,27 @@ class Login extends StatelessWidget {
                   )),
               style: TextStyle(fontSize: 20),
             ),
-            Container(
-              height: 40,
-              alignment: Alignment.centerRight,
-              child: FlatButton(
-                child: Text(
-                  "Recuperar Senha",
-                  textAlign: TextAlign.right,
-                ),
-                onPressed: () {
-                  Navigator.push(context,
-                      MaterialPageRoute(builder: (context) => Senha()));
-                },
+            SizedBox(
+              height: 15,
+            ),
+            TextFormField(
+              keyboardType: TextInputType.emailAddress,
+              decoration: InputDecoration(
+                  labelText: "CPF*",
+                  labelStyle: TextStyle(
+                    color: Colors.black,
+                    fontWeight: FontWeight.w400,
+                    fontSize: 20,
+                  )),
+              style: TextStyle(
+                fontSize: 20,
               ),
             ),
             SizedBox(
-              height: 40,
+              height: 20,
             ),
             Container(
-              height: 60,
+              height: 40,
               alignment: Alignment.centerLeft,
               decoration: BoxDecoration(
                 gradient: LinearGradient(
@@ -108,21 +119,56 @@ class Login extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: <Widget>[
                       Text(
-                        "Login",
+                        "Cadastrar",
                         style: TextStyle(
                           fontWeight: FontWeight.bold,
-                          color: Colors.blue[900],
+                          color: Colors.black,
                           fontSize: 20,
                         ),
                         textAlign: TextAlign.left,
                       ),
-                      Container(
-                        child: SizedBox(
-                          child: Image.asset("assets/login.png"),
-                          height: 28,
-                          width: 28,
+                    ],
+                  ),
+                  onPressed: () => {},
+                ),
+              ),
+            ),
+            SizedBox(
+              height: 20,
+            ),
+            Container(
+              height: 40,
+              alignment: Alignment.centerLeft,
+              decoration: BoxDecoration(
+                gradient: LinearGradient(
+                    begin: Alignment.topLeft,
+                    end: Alignment.bottomRight,
+                    stops: [
+                      0.3,
+                      1
+                    ],
+                    colors: [
+                      Colors.red[600],
+                      Colors.red[900],
+                    ]),
+                borderRadius: BorderRadius.all(
+                  Radius.circular(5),
+                ),
+              ),
+              child: SizedBox.expand(
+                child: FlatButton(
+                  child: Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: <Widget>[
+                      Text(
+                        "Cancelar",
+                        style: TextStyle(
+                          fontWeight: FontWeight.bold,
+                          color: Colors.black,
+                          fontSize: 20,
                         ),
-                      )
+                        textAlign: TextAlign.left,
+                      ),
                     ],
                   ),
                   onPressed: () => {},
