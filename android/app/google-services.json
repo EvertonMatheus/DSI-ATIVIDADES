@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054053761978",
+    "project_id": "cadastro-professor-35cd6",
+    "storage_bucket": "cadastro-professor-35cd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054053761978:android:d6608929e31ad6a4ea1383",
+        "android_client_info": {
+          "package_name": "br.ufrpe.bsi.dsi.dsi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054053761978-30du20mjrl1jgrmco35oq6nsu7s7hi57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx4YU-Kz-HeIrO1KVOYF6LF3o1yVHglxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054053761978-30du20mjrl1jgrmco35oq6nsu7s7hi57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

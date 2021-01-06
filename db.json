@@ -1,0 +1,328 @@
+{
+  "pessoas": {
+    "6t7GlaUJhDI4uC89thKB": {
+      "cpf": "000.000.000-01",
+      "nome": "Aluno 1",
+      "endereco": {
+        "logradouro": "Rua 1",
+        "numero": "1",
+        "bairro": "Bairro 1",
+        "cidade": "Cidade 1",
+        "estado": "PE",
+        "cep": "00000001"
+      }
+    },
+    "927N47HlWwxNp6bU2xMZ": {
+      "cpf": "000.000.000-02",
+      "nome": "Aluno 2",
+      "endereco": {
+        "logradouro": "Rua 2",
+        "numero": "2",
+        "bairro": "Bairro 2",
+        "cidade": "Cidade 2",
+        "estado": "PB",
+        "cep": "00000002"
+      }
+    },
+    "Zb93fy819oeagHeBaccd": {
+      "cpf": "000.000.000-03",
+      "nome": "Aluno 3",
+      "endereco": {
+        "logradouro": "Rua 3",
+        "numero": "3",
+        "bairro": "Bairro 3",
+        "cidade": "Cidade 3",
+        "estado": "PE",
+        "cep": "00000003"
+      }
+    },
+    "PR2AsF6scdeIAG37qEd5": {
+      "cpf": "000.000.000-04",
+      "nome": "Aluno 4",
+      "endereco": {
+        "logradouro": "Rua 4",
+        "numero": "4",
+        "bairro": "Bairro 4",
+        "cidade": "Cidade 4",
+        "estado": "PI",
+        "cep": "00000004"
+      }
+    },
+    "6nfxyQIAPi4hp4xkaBHo": {
+      "cpf": "000.000.000-05",
+      "nome": "Aluno 5",
+      "endereco": {
+        "logradouro": "Rua 5",
+        "numero": "5",
+        "bairro": "Bairro 5",
+        "cidade": "Cidade 5",
+        "estado": "SP",
+        "cep": "00000005"
+      }
+    },
+    "UacVkmToueXNqmIyJ6MM": {
+      "cpf": "000.000.000-06",
+      "nome": "Aluno 6",
+      "endereco": {
+        "logradouro": "Rua 6",
+        "numero": "6",
+        "bairro": "Bairro 6",
+        "cidade": "Cidade 6",
+        "estado": "PE",
+        "cep": "00000006"
+      }
+    },
+    "Q2OhZtHlXjMcPx6KY5gN": {
+      "cpf": "000.000.000-07",
+      "nome": "Aluno 7",
+      "endereco": {
+        "logradouro": "Rua 7",
+        "numero": "7",
+        "bairro": "Bairro 7",
+        "cidade": "Cidade 7",
+        "estado": "PA",
+        "cep": "00000007"
+      }
+    },
+    "les5eAZRPxBKlyWXV6lm": {
+      "cpf": "000.000.000-08",
+      "nome": "Aluno 8",
+      "endereco": {
+        "logradouro": "Rua 8",
+        "numero": "8",
+        "bairro": "Bairro 8",
+        "cidade": "Cidade 8",
+        "estado": "PB",
+        "cep": "00000008"
+      }
+    },
+    "9ITBqZb9JmMhRvu3wxNT": {
+      "cpf": "000.000.000-09",
+      "nome": "Aluno 9",
+      "endereco": {
+        "logradouro": "Rua 9",
+        "numero": "9",
+        "bairro": "Bairro 9",
+        "cidade": "Cidade 9",
+        "estado": "AC",
+        "cep": "00000009"
+      }
+    },
+    "MoArrUNvU2Uux3YOsZGC": {
+      "cpf": "000.000.000-10",
+      "nome": "Aluno 10",
+      "endereco": {
+        "logradouro": "Rua 10",
+        "numero": "10",
+        "bairro": "Bairro 10",
+        "cidade": "Cidade 10",
+        "estado": "CE",
+        "cep": "00000010"
+      }
+    },
+    "Cae4UyM0GWaEiZYVHwAC": {
+      "cpf": "000.000.000-11",
+      "nome": "Professor 11",
+      "endereco": {
+        "logradouro": "Rua 11",
+        "numero": "11",
+        "bairro": "Bairro 11",
+        "cidade": "Cidade 11",
+        "estado": "RR",
+        "cep": "00000011"
+      }
+    },
+    "2MVsMEe0DYLX2T5hNexj": {
+      "cpf": "000.000.000-12",
+      "nome": "Professor 12",
+      "endereco": {
+        "logradouro": "Rua 12",
+        "numero": "12",
+        "bairro": "Bairro 12",
+        "cidade": "Cidade 12",
+        "estado": "RN",
+        "cep": "00000012"
+      }
+    },
+    "gGQhX2hJpx8swATf8yEV": {
+      "cpf": "000.000.000-13",
+      "nome": "Professor 13",
+      "endereco": {
+        "logradouro": "Rua 13",
+        "numero": "13",
+        "bairro": "Bairro 13",
+        "cidade": "Cidade 13",
+        "estado": "RO",
+        "cep": "00000013"
+      }
+    },
+    "UWZViQw4IcCKLUwYNbKV": {
+      "cpf": "000.000.000-14",
+      "nome": "Professor 14",
+      "endereco": {
+        "logradouro": "Rua 14",
+        "numero": "14",
+        "bairro": "Bairro 14",
+        "cidade": "Cidade 14",
+        "estado": "PE",
+        "cep": "00000014"
+      }
+    },
+    "GLeqPpMo20wSBC3C9xwv": {
+      "cpf": "000.000.000-15",
+      "nome": "Professor 15",
+      "endereco": {
+        "logradouro": "Rua 15",
+        "numero": "15",
+        "bairro": "Bairro 15",
+        "cidade": "Cidade 15",
+        "estado": "AM",
+        "cep": "00000015"
+      }
+    },
+    "MHJqbapunsIZ27ZIqpZu": {
+      "cpf": "000.000.000-16",
+      "nome": "Professor 16",
+      "endereco": {
+        "logradouro": "Rua 16",
+        "numero": "16",
+        "bairro": "Bairro 16",
+        "cidade": "Cidade 16",
+        "estado": "SE",
+        "cep": "00000016"
+      }
+    },
+    "Tn9JoJgyOs8WV6RLHuzj": {
+      "cpf": "000.000.000-17",
+      "nome": "Professor 17",
+      "endereco": {
+        "logradouro": "Rua 17",
+        "numero": "17",
+        "bairro": "Bairro 17",
+        "cidade": "Cidade 17",
+        "estado": "MA",
+        "cep": "00000017"
+      }
+    },
+    "ovxTJthKQ0swbMHq0QJs": {
+      "cpf": "000.000.000-18",
+      "nome": "Professor 18",
+      "endereco": {
+        "logradouro": "Rua 18",
+        "numero": "18",
+        "bairro": "Bairro 18",
+        "cidade": "Cidade 18",
+        "estado": "PB",
+        "cep": "00000018"
+      }
+    },
+    "9DGTabdcjG5PKnKRZx9x": {
+      "cpf": "000.000.000-19",
+      "nome": "Professor 19",
+      "endereco": {
+        "logradouro": "Rua 19",
+        "numero": "19",
+        "bairro": "Bairro 19",
+        "cidade": "Cidade 19",
+        "estado": "AL",
+        "cep": "00000019"
+      }
+    },
+    "xVMDNpZSmLyZwLGZBwb8": {
+      "cpf": "000.000.000-20",
+      "nome": "Professor 20",
+      "endereco": {
+        "logradouro": "Rua 20",
+        "numero": "20",
+        "bairro": "Bairro 20",
+        "cidade": "Cidade 20",
+        "estado": "BA",
+        "cep": "00000020"
+      }
+    }
+  },
+  "alunos": {
+    "b10CN9uvEmV0aImSt12c": {
+      "idPessoa": "6t7GlaUJhDI4uC89thKB",
+      "matricula": "000010"
+    },
+    "EYuRXfb3YKPIFvNQhVEo": {
+      "idPessoa": "927N47HlWwxNp6bU2xMZ",
+      "matricula": "000020"
+    },
+    "EDEVASwawrW7id2jlMcD": {
+      "idPessoa": "Zb93fy819oeagHeBaccd",
+      "matricula": "000030"
+    },
+    "W9ZxyMGANxyvln5ORxpM": {
+      "idPessoa": "PR2AsF6scdeIAG37qEd5",
+      "matricula": "000040"
+    },
+    "3W79gnQqEbc5Ykq3SMZ1": {
+      "idPessoa": "6nfxyQIAPi4hp4xkaBHo",
+      "matricula": "000050"
+    },
+    "SQDq0FneNamEEfLyCgTa": {
+      "idPessoa": "UacVkmToueXNqmIyJ6MM",
+      "matricula": "000060"
+    },
+    "spfnjqlZRpSZgIWWkcO0": {
+      "idPessoa": "Q2OhZtHlXjMcPx6KY5gN",
+      "matricula": "000070"
+    },
+    "LunelJCvDJxRD5hlUwxX": {
+      "idPessoa": "les5eAZRPxBKlyWXV6lm",
+      "matricula": "000080"
+    },
+    "niJynAtBoOpBBTSIxdaw": {
+      "idPessoa": "9ITBqZb9JmMhRvu3wxNT",
+      "matricula": "000090"
+    },
+    "VJCwd8SG3TBzgFl4vHVY": {
+      "idPessoa": "MoArrUNvU2Uux3YOsZGC",
+      "matricula": "000010"
+    }
+  },
+  "professores": {
+    "Yl0uQqIN6lJLCrmVTz86": {
+      "idPessoa": "Cae4UyM0GWaEiZYVHwAC",
+      "titulacao": "msc"
+    },
+    "DTgZxxXMjopl4P0Wj6Uw": {
+      "idPessoa": "2MVsMEe0DYLX2T5hNexj",
+      "titulacao": "dr"
+    },
+    "5xkIvEyNhcGTMdInDf5g": {
+      "idPessoa": "gGQhX2hJpx8swATf8yEV",
+      "titulacao": "dr"
+    },
+    "cHeteacZjoonNexlfLmd": {
+      "idPessoa": "UWZViQw4IcCKLUwYNbKV",
+      "titulacao": "msc"
+    },
+    "dWSUcaGbUjbaDTIUiEyw": {
+      "idPessoa": "GLeqPpMo20wSBC3C9xwv",
+      "titulacao": "msc"
+    },
+    "5O5zO4UT9d9olH3VOF2T": {
+      "idPessoa": "MHJqbapunsIZ27ZIqpZu",
+      "titulacao": "dr"
+    },
+    "xqg43UEdseILCqD2GOLU": {
+      "idPessoa": "Tn9JoJgyOs8WV6RLHuzj",
+      "titulacao": "msc"
+    },
+    "a5kbvqW5tOKPgRxp0PcW": {
+      "idPessoa": "ovxTJthKQ0swbMHq0QJs",
+      "titulacao": "dr"
+    },
+    "HDddW3Z32ZJCrvmErGuw": {
+      "idPessoa": "9DGTabdcjG5PKnKRZx9x",
+      "titulacao": "dr"
+    },
+    "4WfdUphbmuXB89sNvGrB": {
+      "idPessoa": "xVMDNpZSmLyZwLGZBwb8",
+      "titulacao": "dr"
+    }
+  }
+}
